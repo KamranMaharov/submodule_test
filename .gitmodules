@@ -1,0 +1,3 @@
+[submodule "a/algorithms_java"]
+	path = a/algorithms_java
+	url = https://github.com/TheAlgorithms/Java.git
